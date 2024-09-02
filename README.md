@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harsh Raj Kumar</h1>
-<h3 align="center">Here's a su"Aspiring Developer | Full Stack Enthusiast | AI and Data Science Explorer"</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Raj+Kumar" alt="Typing SVG" /></a></h1>
+<h3 align="center">"Aspiring Developer | Full Stack Enthusiast | AI and Data Science Explorer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshofficial7708&label=Profile%20views&color=0e75b6&style=flat" alt="harshofficial7708" /> </p>
 
