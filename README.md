@@ -71,4 +71,4 @@ Hey! My name is Harsh Raj Kumar, and I am an aspiring developer with a passion f
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
