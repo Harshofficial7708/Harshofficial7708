@@ -68,3 +68,7 @@ Hey! My name is Harsh Raj Kumar, and I am an aspiring developer with a passion f
 
 ![](https://komarev.com/ghpvc/?username=harshofficial7708&label=Views)
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
